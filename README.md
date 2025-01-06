@@ -32,8 +32,4 @@
   <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo" />
 </div>
 
----
-
-<h2 align="left">Snake Animation</h2>
-
 ![Snake animation](https://raw.githubusercontent.com/Moamen1589/Moamen1589/output/snake.svg?palette=github-dark)

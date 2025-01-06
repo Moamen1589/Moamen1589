@@ -40,3 +40,6 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/Moamen1589/Moamen1589/output/snake.svg" alt="Snake animation" />
+
+###

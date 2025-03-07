@@ -1,4 +1,4 @@
-<h1 align="left">Welcome <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Code-icon.svg" width="40" height="40"> </h1>
+<h1 align="left">Welcome![Code](https://img.shields.io/badge/%3C%2F%3E-Code-orange?style=for-the-badge&logo=code&logoColor=white) </h1>
 
 <p align="left">My Name is Moamen Adel and I'm a Front-End Developer from Egypt</p>
 

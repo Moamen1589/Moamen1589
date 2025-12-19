@@ -19,6 +19,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" /> <img
+width="12" /> <img src="https://skillicons.dev/icons?i=nest" height="40" alt="nestjs logo" /> <img
+width="12" /> <img src="https://skillicons.dev/icons?i=next" height="40" alt="nextjs logo" /> <img
+width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />

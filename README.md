@@ -16,6 +16,10 @@
 
 <img src="./assets/stack.svg" width="100%" alt="React, Next.js, TypeScript, Node.js, Express, NestJS, MongoDB, MySQL, Prisma, Redis" />
 
+<img src="./assets/t-exp.svg" width="100%" alt="Experience" />
+
+<img src="./assets/experience.svg" width="100%" alt="Full Stack Developer at Birth Of Dream for Consulting, MERN Stack Trainee at MIAM, Computer and Data Science at Alexandria University" />
+
 <img src="./assets/t-projects.svg" width="100%" alt="Featured Projects" />
 
 <p align="center">
@@ -26,10 +30,6 @@
 <a href="https://movie-app-opal-one.vercel.app/"><img src="./assets/p5.svg" width="49%" alt="Movie App" /></a>
 <a href="https://github.com/Moamen1589?tab=repositories"><img src="./assets/p6.svg" width="49%" alt="More Projects" /></a>
 </p>
-
-<img src="./assets/t-exp.svg" width="100%" alt="Experience" />
-
-<img src="./assets/experience.svg" width="100%" alt="Full Stack Developer at Birth Of Dream for Consulting, MERN Stack Trainee at MIAM, Computer and Data Science at Alexandria University" />
 
 <img src="./assets/t-certs.svg" width="100%" alt="Certificates" />
 

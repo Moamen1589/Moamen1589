@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="492" height="130" viewBox="0 0 492 130" role="img" aria-label="SQL (Intermediate) - HackerRank">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
+<filter id="blur" x="-1" y="-1" width="3" height="3"><feGaussianBlur stdDeviation="45"/></filter>
+<clipPath id="c"><rect width="492" height="130" rx="18"/></clipPath></defs>
+<style>text{font-family:'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif}.m{font-family:Consolas,Menlo,'DejaVu Sans Mono',monospace}
+@keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
+@keyframes flow{to{stroke-dashoffset:-1000}}
+
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.rx{display:none}}</style>
+<rect width="492" height="130" rx="18" fill="#0a0e1a"/><path d="M38 70L28 108L42 100L50 112L56 74Z" fill="#a78bfa" opacity=".5"/><circle cx="46" cy="54" r="27" fill="#a78bfa" fill-opacity=".15" stroke="#a78bfa" stroke-width="2"/><path d="M46 39l4.4 9 9.9 1.4-7.2 7 1.7 9.8-8.8-4.6-8.8 4.6 1.7-9.8-7.2-7 9.9-1.4z" fill="#a78bfa"/><text x="94" y="48" font-size="21" fill="#f8fafc" font-weight="700">SQL (Intermediate)</text><text x="94" y="76" font-size="15" fill="#a78bfa" >HackerRank</text><text x="94" y="107" font-size="14" fill="#94a3b8" >View Certificate  →</text><rect x="1" y="1" width="490" height="128" rx="17" fill="none" stroke="#1e293b" stroke-width="1.5"/><rect x="1" y="1" width="490" height="128" rx="17" fill="none" stroke="#a78bfa" stroke-width="2" pathLength="1000" stroke-dasharray="160 840" style="animation:flow 7s linear infinite"/></svg>

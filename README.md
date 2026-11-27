@@ -1,93 +1,51 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Moamen Adel - Full Stack Developer" />
+<img src="./assets/hero.svg" width="100%" alt="Moamen Adel - Full Stack Developer" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://moamenadel.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/moamen-adel-86456828a)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mwmnadl11@gmail.com)
-
-</div>
-
-## 👨‍💻 About Me
-
-Full Stack Developer from **Alexandria, Egypt** with **1.5+ years** of experience building web products end to end, from responsive React and Next.js interfaces to secure, scalable Node.js back ends.
-
-```ts
-const moamen = {
-  role: "Full Stack Developer",
-  frontend: ["React", "Next.js", "TypeScript"],
-  backend: ["Node.js", "Express", "NestJS"],
-  currentlyBuilding: "Multi-tenant SaaS with Next.js & NestJS",
-  focus: ["Clean Architecture", "Maintainable Code", "Business Value"],
-};
-```
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=js,ts,html,css" alt="JavaScript, TypeScript, HTML, CSS" />
-
-**Front End**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui,vite" alt="React, Next.js, Redux Toolkit, Tailwind CSS, Material UI, Vite" />
-
-**Back End**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" alt="Node.js, Express, NestJS" />
-
-`REST APIs` `JWT Auth` `WebSockets` `Multer` `Nodemailer`
-
-**Databases & Caching**
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,prisma,redis" alt="MongoDB, MySQL, Prisma, Redis" />
-
-`SQL` `Mongoose`
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Git, GitHub, VS Code, Postman, Figma" />
-
-`Chrome DevTools`
+[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://moamenadel.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0891b2?style=for-the-badge)](https://www.linkedin.com/in/moamen-adel-86456828a)
+[![Email](https://img.shields.io/badge/Email-db2777?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mwmnadl11@gmail.com)
 
 </div>
 
-## 🚀 Featured Projects
+<img src="./assets/t-about.svg" width="100%" alt="About Me" />
 
-| Project | Description | Stack | Link |
-|---|---|---|---|
-| **Multi-Tenant Academy SaaS** | Multiple academies on one system: courses, exams, attendance, tenant isolation, RBAC and custom landing pages | Next.js, NestJS, Prisma, MySQL, JWT | [Live](https://my-academy.online/) |
-| **Interno** *(Graduation Project)* | Internship platform with 30+ REST endpoints, a 15-table MySQL schema, OTP verification and rate limiting | React, Express, MongoDB, MySQL, Redis | [Code](https://github.com/Interno-Platform/Interno-BackEnd) |
-| **Event X Studio API** | 18+ endpoints for events, QR payment verification and real-time notifications | Express, MongoDB, WebSocket, JWT | [Code](https://github.com/Moamen1589/EventX-BackEnd) |
-| **Course Master API** | 17+ endpoints for courses and enrollments, 3 user roles, file uploads, MVC | Express, MongoDB, JWT, Multer | [Code](https://github.com/Courses-Master/Courses-Master-Backend) |
-| **Movie App** | Responsive app with real-time movie data, favorites and watchlists | React, Vite, Tailwind CSS | [Live](https://movie-app-opal-one.vercel.app/) |
+<img src="./assets/about.svg" width="100%" alt="Full Stack Developer based in Alexandria, Egypt, with 2+ years of experience" />
 
-## 💼 Experience
+<img src="./assets/t-stack.svg" width="100%" alt="Tech Stack" />
 
-- **Front End Developer** · Birth Of Dream for Consulting, Jeddah *(Mar 2025 – Present)*<br/>
-  Contributing to 3 production platforms (Athar Riyada, Athar OS, Athar 360): dashboards, admin workflows, REST API integration and role-based features.
-- **MERN Stack Trainee** · MIAM *(2025)*<br/>
-  Intensive hands-on program with full-stack projects, JWT authentication, deployment and code reviews.
+<img src="./assets/stack.svg" width="100%" alt="React, Next.js, TypeScript, Node.js, Express, NestJS, MongoDB, MySQL, Prisma, Redis" />
 
-## 🎓 Education & Certificates
+<img src="./assets/t-projects.svg" width="100%" alt="Featured Projects" />
 
-**B.Sc. Computer and Data Science** · Alexandria University *(2022 – 2026)*
+<p align="center">
+<a href="https://my-academy.online/"><img src="./assets/p1.svg" width="49%" alt="Multi-Tenant Academy SaaS" /></a>
+<a href="https://github.com/Interno-Platform/Interno-BackEnd"><img src="./assets/p2.svg" width="49%" alt="Interno  ·  Graduation Project" /></a>
+<a href="https://github.com/Moamen1589/EventX-BackEnd"><img src="./assets/p3.svg" width="49%" alt="Event X Studio API" /></a>
+<a href="https://github.com/Courses-Master/Courses-Master-Backend"><img src="./assets/p4.svg" width="49%" alt="Course Master API" /></a>
+<a href="https://movie-app-opal-one.vercel.app/"><img src="./assets/p5.svg" width="49%" alt="Movie App" /></a>
+<a href="https://github.com/Moamen1589?tab=repositories"><img src="./assets/p6.svg" width="49%" alt="More Projects" /></a>
+</p>
 
-- [MERN Stack Development · MIAM](https://drive.google.com/file/d/17gi5piShSA2p0R97FmK6UzlWsQOPO7re/view?usp=sharing)
-- [SQL (Intermediate) · HackerRank](https://www.hackerrank.com/certificates/8eb338b7ca16)
-- [SQL (Basic) · HackerRank](https://www.hackerrank.com/certificates/73a51b6ad8d6)
-- [Programming Foundations](https://drive.google.com/file/d/1Eoqc1EVO7pWM4et0VaqmHqpOWHcTRudY/view?usp=drive_link)
-- [Algorithms Problem Solving](https://drive.google.com/file/d/1Pm38KG3-SaEiVKSdI0JnJD6GInW-XyCo/view?usp=drive_link)
-- Web Development Challenger Nanodegree · Udacity
+<img src="./assets/t-exp.svg" width="100%" alt="Experience" />
 
-## 📊 GitHub Activity
+<img src="./assets/experience.svg" width="100%" alt="Full Stack Developer at Birth Of Dream for Consulting, MERN Stack Trainee at MIAM, Computer and Data Science at Alexandria University" />
 
-<div align="center">
+<img src="./assets/t-certs.svg" width="100%" alt="Certificates" />
 
+<p align="center">
+<a href="https://drive.google.com/file/d/17gi5piShSA2p0R97FmK6UzlWsQOPO7re/view?usp=sharing"><img src="./assets/c1.svg" width="49%" alt="MERN Stack Development" /></a>
+<a href="https://www.hackerrank.com/certificates/8eb338b7ca16"><img src="./assets/c2.svg" width="49%" alt="SQL (Intermediate)" /></a>
+<a href="https://www.hackerrank.com/certificates/73a51b6ad8d6"><img src="./assets/c3.svg" width="49%" alt="SQL (Basic)" /></a>
+<a href="https://drive.google.com/file/d/1Eoqc1EVO7pWM4et0VaqmHqpOWHcTRudY/view?usp=drive_link"><img src="./assets/c4.svg" width="49%" alt="Programming Foundations" /></a>
+<a href="https://drive.google.com/file/d/1Pm38KG3-SaEiVKSdI0JnJD6GInW-XyCo/view?usp=drive_link"><img src="./assets/c5.svg" width="49%" alt="Algorithms Problem Solving" /></a>
+<img src="./assets/c6.svg" width="49%" alt="Web Development Challenger" />
+</p>
+
+<img src="./assets/t-stats.svg" width="100%" alt="GitHub Activity" />
+
+<p align="center">
 <img src="https://streak-stats.demolab.com?user=Moamen1589&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
 
-### 🤝 Let's build something great together
-
-</div>
+<img src="./assets/footer.svg" width="100%" alt="Let's build something great together" />
